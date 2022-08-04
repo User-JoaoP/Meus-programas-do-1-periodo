@@ -5,7 +5,7 @@ int main(){
     int number, sum;
 	
 	printf("Algorithm to calculate the sum of the first n positive integers..\n");
-    printf("----------------------------------------------------------------\n");
+    	printf("----------------------------------------------------------------\n");
 
 	printf("Enter the value of n:\n");
 	scanf("%d", &number);
