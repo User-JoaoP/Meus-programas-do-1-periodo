@@ -1,0 +1,1 @@
+Hello!! Here are my first algorithms in the C language, referring to the first period of my graduation.
